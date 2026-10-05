@@ -1,0 +1,19 @@
+# Python Virtual Environments
+.travel_venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Datenquellen im Unterordner 
+/data
+
+# Generierte ML-Artefakte & Datensätze 
+# (werden lokal erzeugt, gehören nicht ins GitHub-Repo)
+
+# VS Code Einstellungen
+.vscode/
+
+# OS spezifische Dateien
+.DS_Store
+Thumbs.db
